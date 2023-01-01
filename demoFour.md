@@ -1,8 +1,8 @@
 # Text description of the business process "Ordering food from a restaurant":
 * **Start** 
 * **Step 1** (user:) selects the "Meal Catalog" section on the application screen, clicks on it.
-* **Step 2** (system:) displays the food catalogue on the screen. 
-* **Step 3** (user): adds the dishes from the catalogue to the shopping cart and specifies the quantity.
+* **Step 2** (system:) displays the food catalog on the screen. 
+* **Step 3** (user): adds the dishes from the catalog to the shopping cart and specifies the quantity.
 * **Step 4** (system): adds the selected meal choices and their quantities to the shopping cart. 
 * **Step 5** (user): moves to the shopping cart.
 * **Step 6** (system): moves the user to the shopping cart. 
