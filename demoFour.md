@@ -12,7 +12,7 @@
   * "Yes" - switch to branch 2 .
   * "No" - proceed to step 7. 
 * **Branch 2** (user): where does he want to edit his order?
-  * "In product basket" - go to step 5.
+  * "In shopping cart" - go to step 5.
   * "In catalog" - Skip to step 1. 
 * **Step 7** (user): presses the "Checkout" button.
 * **Step 8** (system): opens "Delivery address" form. 
